@@ -1,0 +1,29 @@
+* {
+	background-color: tan;
+}
+table img {
+	width: 70px;
+	height:70px;
+	border: solid 2px black;
+	padding: 10px;
+}
+#one {
+	display: inline-block;
+	width: auto;
+	height: 40px;
+	margin-left: 50px;
+}
+#two {
+	display: inline-block;
+	width: auto;
+	height: 40px;
+}
+.jpg {
+	background-color: lightblue;
+}
+.png {
+	background-color: pink;
+}
+h1 {
+	display: inline-block;
+}
